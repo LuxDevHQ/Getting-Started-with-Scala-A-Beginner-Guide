@@ -5,9 +5,9 @@ Scala is a powerful programming language that combines functional and object-ori
 
 ### **1). Installing Scala:**
 
-Overview of Scala installation options (Scala Build Tool, Scala binaries, IDE plugins).
+- Overview of Scala installation options (Scala Build Tool, Scala binaries, IDE plugins).
 
-Step-by-step instructions to install Scala on different platforms (Windows, macOS, Linux).
+- Step-by-step instructions to install Scala on different platforms (Windows, macOS, Linux).
 
 ### **2).Scala Syntax:**
 
